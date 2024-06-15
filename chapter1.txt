@@ -1,0 +1,1 @@
+Detta är en text som är skrivet för att testa Git in GitHub command line
